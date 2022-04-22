@@ -1,2 +1,3 @@
-# Predicting Credit Card Approvals
-Data science projects from DataCamp, done by me
+# Projects
+This repository includes all kinds of Data Science projects, done by me.
+Projects are split between Python and R.
